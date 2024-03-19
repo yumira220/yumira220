@@ -1,0 +1,26 @@
+*{letter-spacing: 0.8px;
+    line-height: 1.5em;
+}
+
+body{
+    font-family: "Noto Serif TC", serif;
+}
+
+p.redred{
+    color: #648ab5;
+    font-size: 40px;
+    text-align: left;
+    text-indent: 2em;
+    background: #D9FFFF;
+}
+
+.blueblue{
+    color: #7b533e;
+}
+.expedu_icon{
+    color: #648ab5;
+}
+.expedu_icon:hover{
+    background-color: #CA8EFF;
+    color: beige;
+}
