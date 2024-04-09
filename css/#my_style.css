@@ -24,3 +24,11 @@ p.redred{
     background-color: #CA8EFF;
     color: beige;
 }
+table.yutungtable th{
+    text-align:center;
+    background-color: black;
+    color: beige;
+}
+table.yutungtable td{
+    text-align: center;
+}
